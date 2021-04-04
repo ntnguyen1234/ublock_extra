@@ -1,0 +1,4 @@
+! 2021-03-22 https://voz.vn
+voz.vn##.sponsors.p-footer-row
+voz.vn##div.p-footer-row:nth-of-type(2)
+voz.vn#$#.block--messages .message ~ .message { margin-top: 8px !important; }
