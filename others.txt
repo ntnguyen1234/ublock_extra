@@ -24,3 +24,10 @@ twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ys
 twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n
 twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-1dbjc4n
 twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
+
+! 2021-04-05 https://www.nationalgeographic.com
+www.nationalgeographic.com##div.FrameBackgroundFull--grey.FrameBackgroundFull:nth-of-type(3)
+www.nationalgeographic.com##div.FrameBackgroundFull--grey.FrameBackgroundFull:nth-of-type(9)
+
+! 2021-03-31 https://chat.zalo.me
+chat.zalo.me##.banner-noti-browser
