@@ -8,3 +8,8 @@
 ! facebook.com###facebook div[role="feed"] div > span > span > a > span > span[aria-label="Sponsored"]:upward(div[role="feed"] > div)
 ! facebook.com###facebook div[role="feed"] div > span > span > a > span[aria-label="Sponsored"]:upward(div[role="feed"] > div)
 facebook.com##+js(fb_sponsor_2)
+
+! 2021-03-22 https://voz.vn
+voz.vn##.sponsors.p-footer-row
+voz.vn##div.p-footer-row:nth-of-type(2)
+voz.vn#$#.block--messages .message ~ .message { margin-top: 8px !important; }
