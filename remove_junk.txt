@@ -3,7 +3,7 @@
 
 *$removeparam=NaPm,domain=gmarket.com|gmarket.co.kr|11st.co.kr|search.shopping.naver.com|smartstore.naver.com|unit808.com|interpark.com|reoffice.co.kr|wemakeprice.com
 *$removeparam=adId,domain=search.shopping.naver.com
-*$removeparam=channel,domain=search.shopping.naver.com
+!*$removeparam=channel,domain=search.shopping.naver.com
 !*$removeparam=cat_id,domain=search.shopping.naver.com
 *$removeparam=cid,domain=search.shopping.naver.com
 *$removeparam=jaehuid,domain=gmarket.co.kr|gmarket.com
