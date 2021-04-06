@@ -1,3 +1,10 @@
 ! Title: Others
-youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
-~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
+!youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
+!~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
+
+! Facebook
+! facebook.com##div[data-pagelet^="FeedUnit_"]:has(span[aria-label="Sponsored"])
+! facebook.com##div[data-pagelet^="FeedUnit"]:has(a:has-text(/^S[a-zA-Z0-9]*p[a-zA-Z0-9]*o[a-zA-Z0-9]*n[a-zA-Z0-9]*s[a-zA-Z0-9]*o[a-zA-Z0-9]*r[a-zA-Z0-9]*e[a-zA-Z0-9]*d/))
+! facebook.com###facebook div[role="feed"] div > span > span > a > span > span[aria-label="Sponsored"]:upward(div[role="feed"] > div)
+! facebook.com###facebook div[role="feed"] div > span > span > a > span[aria-label="Sponsored"]:upward(div[role="feed"] > div)
+facebook.com##+js(fb_sponsor_2)
