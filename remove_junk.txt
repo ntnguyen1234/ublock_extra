@@ -1,3 +1,4 @@
+! Title: Remove junk
 *$removeparam=sh
 
 *$removeparam=NaPm,domain=gmarket.com|gmarket.co.kr|11st.co.kr|search.shopping.naver.com|smartstore.naver.com|unit808.com|interpark.com|reoffice.co.kr|wemakeprice.com
