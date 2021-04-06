@@ -32,3 +32,6 @@ www.nationalgeographic.com##div.FrameBackgroundFull--grey.FrameBackgroundFull:nt
 
 ! 2021-03-31 https://chat.zalo.me
 chat.zalo.me##.banner-noti-browser
+
+! 2021-04-05 https://tinnhanhchungkhoan.vn
+@@||static-cms-tinnhanhchungkhoan.zadn.vn/2020/web/styles/img/favicon.ico$image,domain=tinnhanhchungkhoan.vn
