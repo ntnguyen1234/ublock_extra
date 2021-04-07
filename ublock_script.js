@@ -97,3 +97,50 @@
         subtree: !0
     })
 })();
+
+/// test.js
+(function() {
+    window.__ENVIRONMENT_STATE__ = {
+        "Name": 2,
+        "FEED_CONTAINER_URL": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-game-feeds-content",
+        "GAMES_CONTAINER_URL": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-games",
+        "SORTING_URL": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arkcom-games-sorting-analytics/arkadium.com.json",
+        "WHYNOTTRYTHESE_URL": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arkcom-games-whynottrythese-analytics/arkadium.json",
+        "CONNECTED_APPS_URL": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-index/_arena-shared-content_/ark-connected-apps/arkadium-connected-apps.json",
+        "HOMEPAGE_GAMES_URL": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-index/_arena-shared-content_/ark-homepage-games/game-lists.prod.json",
+        "GAMES_SORTED_BY_GAME_STARTS": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-index/_arena-shared-content_/ark-games-sorted-by-game-starts/ark-games-sorted-by-game-starts.json",
+        "FEED_NAME": "ArkCom_Prod",
+        "ARENA_DOMAIN": "arkadium.com",
+        "SITE_BASE_URL": "https://www.arkadium.com",
+        "AD_REFRESH_TIME_MS": 30000,
+        "USE_CDN": true,
+        "CDN_BASE_URL": "https://assets.arkadium.com",
+        "APP_INSIGHT_INSTRUMENTATION_KEY": "652a75a4-b6da-4557-8bad-23e52c5802a0",
+        "APP_INSIGHT_INSTRUMENTATION_KEY_FRONT": "30844a10-84d8-4424-80be-38aa72ef97ab",
+        "VALIDATE_ANALYTICS_TRACKS": true,
+        "ADO_BUILD_ID": "233439",
+        "STORAGE_PREFIX": "arkcom:",
+        "ERROR_DETAILS": false,
+        "CACHE_TIME_MS": 300000,
+        "PAGE_SEO_URL": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-index/_arena-shared-content_/ark-pages-seo/categories-seo.production.json",
+        "NON_CAT_PAGE_SEO": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-index/_arena-shared-content_/ark-pages-seo/non-categories-seo.production.json",
+        "PATH": "/dist/production/public/uploads",
+        "REDIRECTS_SETTINGS_PATH": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-global-settings/redirects/redirects.json",
+        "ONE_TRUST_ID": "94385eb3-3a33-43a3-81ab-dc4e8117ab4c",
+        "PUSH_NOTIFICATIONS_URL": "https://arenacloud.cdn.arkadiumhosted.com/arenaxstorage-blob/arenax-index/arkadium.com/push-notification/",
+        "USER_API_BASE_URL": "https://arenacloud.cdn.arkadiumhosted.com/uup-api-user-prod/api/v1",
+        "SCORE_API_BASE_URL": "https://arenacloud.cdn.arkadiumhosted.com/uup-api-score-prod/api/v1",
+        "XSOLLA_CONFIG": {
+            "projectId": "e39ee477-0957-11eb-b870-42010aa80004",
+            "preferredLocale": "en_US",
+            "clientId": "179",
+            "responseType": "code",
+            "redirectUri": "https://www.arkadium.com/oauth/xsolla/",
+            "scope": "offline",
+            "state": ""
+        },
+        "DISPLAY_ADS": "noopjs",
+        "VIDEO_ADS": "noopjs",
+        "ADS_QUERY_PARAM": "__arkads"
+    };
+})();
